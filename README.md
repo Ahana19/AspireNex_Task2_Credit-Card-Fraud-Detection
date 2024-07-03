@@ -25,7 +25,7 @@ Link for the dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## Usage
 1. Clone the repository
    ```sh
-    https://github.com/Ahana19/AspireNex/tree/main 
+    https://github.com/Ahana19/AspireNex_Task2_Credit-Card-Fraud-Detection
     ```
 2.Explore the dataset and visualize the features
 3.Perform feature engineering
